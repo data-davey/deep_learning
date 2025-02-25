@@ -12,6 +12,7 @@ dependencies = [
     "notebook>=7.3.2",
     "numpy>=2.2.3",
     "pandas>=2.2.3",
+    "scikit-learn>=1.6.1",
     "seaborn>=0.13.2",
     "torch>=2.6.0",
 ]
